@@ -1,0 +1,7 @@
+id: gen_001
+theme: "AIが落語の弟子に入った話"
+target_structure: "STRUC-001 (Gap-Shift)"
+mechanisms:
+  - "MECH-001 (Setup): AIが完璧な落語を披露することを期待させる"
+  - "MECH-002 (Violation): AIが不自然に『人間らしい』失敗を犯す"
+  - "MECH-004 (Marker): 師匠による鋭いツッコミで笑いを確定させる"
