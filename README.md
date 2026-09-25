@@ -19,4 +19,5 @@ This project depends on the `STOCK` defined in the research repository.
 ## 📂 Directory Structure
 - `seeds/`: Concept YAMLs specifying the target theme and structural components.
 - `gen-pipelines/`: Workflow definitions and prompt engineering logic.
+- `skills/`: Generation skills. `repo2rakugo` converts a GitHub repository into a single SF Rakugo script.
 - `outputs/`: The generated Rakugo scripts.
